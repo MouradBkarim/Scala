@@ -1,8 +1,8 @@
 # Akka Cluster/Client
 Cluster can contain unlimited number of Nodes.
 ## Usage
-To start Node  :
+To start a Node  :
     sbt "run n" 
 
-To start Client :
+To start a Client :
     sbt "run c"
