@@ -1,7 +1,5 @@
 # Github and twitter mashup
-Command line API mashup of the GitHub and Twitter APIs. Search for "*" projects on GitHub, then for each project search for tweets that mention it. You should output a summary of each
-
-project with a short list of recent tweets, in json format.
+Command line API mashup of the GitHub and Twitter APIs. Search for "*" projects on GitHub, then for each project search for tweets that mention it. It output a summary of each project with a short list of recent tweets, in json format.
 
 
 ## Usage
