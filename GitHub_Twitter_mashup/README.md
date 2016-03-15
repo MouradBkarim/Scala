@@ -5,7 +5,7 @@ Command line API mashup of the GitHub and Twitter APIs. Search for "*" projects 
 ## Usage
     You have to put your Twitter App credentials in `.../resources/application.conf` and tweet's option.
     Note : Rate limits are divided into 15 minute intervals and 180 calls every 15 minutes.
-
-Running:
+    
+## To run it:
 
 ```sbt run```
